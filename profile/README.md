@@ -1,6 +1,6 @@
-## COSMIC Utils
+## COSMIC Utilities
 
-This is not an official COSMIC™ project from System76.
+This is not an official COSMIC™ Organization from System76. This is for hosting community applications for the COSMIC™ Desktop.
 
 <!--
 
