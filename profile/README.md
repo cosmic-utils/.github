@@ -2,6 +2,17 @@
 
 This is not an official COSMIC™ Organization from System76. This is for hosting community applications and applets for the COSMIC™ Desktop.
 
+Core applications include:
+
+- Calculator for COSMIC™ :  A simple calculator for the COSMIC™ desktop.
+- Tasks for COSMIC™ :  A simple task management application for the COSMIC™ desktop. 
+- Stellarshot :  A simple backup application using Rustic for the COSMIC™ desktop. 
+
+Extra applications include:
+
+- Tweaks for COSMIC™ : A tweaking tool for the COSMIC™ desktop.
+- WebApps :  Web applications at your fingertips. 
+
 <!--
 
 **Here are some ideas to get you started:**
