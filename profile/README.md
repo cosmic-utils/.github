@@ -10,6 +10,7 @@ Core applications include:
 
 Extra applications include:
 
+- COSMIC Ext Weather :  Weather app written in Rust and libcosmic.
 - Tweaks for COSMIC™ : A tweaking tool for the COSMIC™ desktop.
 - WebApps :  Web applications at your fingertips. 
 
