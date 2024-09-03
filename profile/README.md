@@ -1,4 +1,6 @@
-## Hi there 👋
+## COSMIC Utils
+
+This is not an official COSMIC™ project from System76.
 
 <!--
 
