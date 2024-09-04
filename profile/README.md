@@ -4,16 +4,16 @@ This is not an official COSMIC™ Organization from System76. This is for hostin
 
 Core applications include:
 
-- Calculator for COSMIC™ :  A simple calculator for the COSMIC™ desktop.
-- Tasks for COSMIC™ :  A simple task management application for the COSMIC™ desktop. 
-- Stellarshot :  A simple backup application using Rustic for the COSMIC™ desktop. 
+- Calculator:  A simple calculator for the COSMIC™ desktop.
+- Tasks:  A simple task management application for the COSMIC™ desktop. 
+- Stellarshot:  A simple backup application using Rustic for the COSMIC™ desktop.
+- Weather:  Weather app written in Rust and libcosmic.
+- Examime: A system information viewer for the COSMIC™ desktop.
 
 Extra applications include:
 
-- COSMIC Ext Weather :  Weather app written in Rust and libcosmic.
-- Examime : A system information viewer for the COSMIC™ desktop.
-- Tweaks for COSMIC™ : A tweaking tool for the COSMIC™ desktop.
-- WebApps :  Web applications at your fingertips. 
+- Tweaks for COSMIC™: A tweaking tool for the COSMIC™ desktop.
+- WebApps:  Web applications at your fingertips. 
 
 <!--
 
