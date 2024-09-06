@@ -10,7 +10,8 @@ Applications include:
 - Weather:  Weather app written in Rust and libcosmic.
 - Examime: A system information viewer for the COSMIC™ desktop.
 - Tweaks for COSMIC™: A tweaking tool for the COSMIC™ desktop.
-- WebApps:  Web applications at your fingertips. 
+- WebApps:  Web applications at your fingertips.
+- Wizard: deb packages installer made with magic for the COSMIC™ desktop! 
 
 Applets include:
 
