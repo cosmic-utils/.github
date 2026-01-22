@@ -1,4 +1,4 @@
-# COSMIC Utilities
+# Utilities for the COSMIC™ Desktop
 
 **This is not an official COSMIC™ Organization from System76.** This is a community-driven organization for hosting applications and applets for the COSMIC™ Desktop.
 
@@ -82,7 +82,7 @@
 
 - **[Accounts](https://github.com/cosmic-utils/accounts)** - A library for COSMIC online account management.
 - **[COSMIC Project Collection](https://github.com/cosmic-utils/cosmic-project-collection)** - A curated collection of COSMIC projects developed by the community.
-- **[COSMIC Utils Website](https://github.com/cosmic-utils/cosmic-utils.github.io)** - Source files for the COSMIC Utils website.
+- **[COSMIC Utils Website](https://github.com/cosmic-utils/cosmic-utils.github.io)** - Source files for the Utilities for the COSMIC™ Desktop website.
 - **[Iced Fork](https://github.com/cosmic-utils/iced)** - A cross-platform GUI library for Rust, inspired by Elm.
 
 ---
@@ -91,7 +91,7 @@
 
 Contact the organization maintainers in the [Mattermost channel](https://chat.pop-os.org/pop-os/channels/cosmic-utils) and request an invitation. If you have an existing COSMIC project you'd like to include, you're welcome to transfer it to the organization.
 
-Active contributors who show commitment to the COSMIC Utils ecosystem are welcome to join the organization. Membership allows you to:
+Active contributors who show commitment to the Utilities for the COSMIC™ Desktop ecosystem are welcome to join the organization. Membership allows you to:
 - Create new repositories under the cosmic-utils organization
 - Have write access to repositories you maintain
 - Participate in organization-wide discussions and decisions
