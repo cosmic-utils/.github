@@ -62,6 +62,7 @@
 - **[Clipboard Manager](https://github.com/cosmic-utils/clipboard-manager)** - Clipboard manager for COSMIC™ with history.
 - **[External Monitor Brightness](https://github.com/cosmic-utils/cosmic-ext-applet-external-monitor-brightness)** - Applet to control the brightness of external monitors.
 - **[Weather Applet](https://github.com/cosmic-utils/cosmic-ext-applet-weather)** - Simple weather info applet for COSMIC.
+- **[Tempest Weather](https://codeberg.org/VintageTechie/cosmic-ext-applet-tempest)** - Weather applet for COSMIC™ with automatic location detection, air quality, alerts, and forecasts.
 
 ### Networking
 
