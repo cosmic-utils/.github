@@ -41,7 +41,7 @@
 
 ### Development Tools
 
-- **[COSMIC App Template](https://github.com/cosmic-utils/cosmic-app-template)** - A template for COSMIC applications.
+- **[COSMIC App Template](https://github.com/pop-os/cosmic-app-template)** - A template for COSMIC applications.
 - **[COSMIC Applet Template](https://github.com/cosmic-utils/cosmic-applet-template)** - A template for developing applets for the COSMIC™ desktop environment using libcosmic.
 
 ### Archive
